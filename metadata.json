@@ -1,0 +1,5 @@
+{
+  "name": "nUi - Design with ai",
+  "description": "A local-first IDE for generating and iterating on web interfaces using Google Gemini AI.",
+  "requestFramePermissions": []
+}
